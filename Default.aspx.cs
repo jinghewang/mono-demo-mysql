@@ -12,7 +12,8 @@ public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        //this.ListView1.DataSource = this.testsql2();
+        //this.ListView1.DataBind();
     }
 
     protected void Button1_Click(object sender, EventArgs e)
